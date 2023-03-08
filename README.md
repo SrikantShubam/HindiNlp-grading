@@ -55,8 +55,9 @@ All these processes generate a score, which is then aggregated to arrive at the 
 
 # 👨‍💻 Contributors
 
-[Srikant Shubam](https://github.com/SrikantShubam)     - Developer
+[Srikant Shubam](https://github.com/SrikantShubam)     - Developer <br>
 [Vishal Bimal Francis](https://github.com/vishalbimal) - Developer
+
 
 #📝 License
 This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt). See the LICENSE file for details.
