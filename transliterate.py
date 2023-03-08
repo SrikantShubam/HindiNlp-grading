@@ -25,6 +25,7 @@ import pandas as pd
 from nltk.stem import WordNetLemmatizer
 import http.client
 import nltk
+nltk.download('omw-1.4')
 # Download WordNetLemmatizer from NLTK
 
 nltk.download('wordnet')
