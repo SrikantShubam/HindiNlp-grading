@@ -1,7 +1,7 @@
 # 📚 *HindiNlp-grading*
 This repository contains code for grading Hindi language proficiency tests using Natural Language Processing (NLP) techniques. 📝🧐
 
-#🛠️ *Dependencies*
+# 🛠️ *Dependencies*
 The following dependencies are required to run the code in this repository:
 
 * Python 3.x
