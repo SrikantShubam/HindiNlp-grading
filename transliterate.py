@@ -156,6 +156,7 @@ print(mystring)
 data = {"final": mystring}
 # Save the output string in a CSV file named "output.csv"
 df = pd.DataFrame([data])
+# print("the file is saved as {}".format(name))
 df.to_csv("output.csv")
 
 
