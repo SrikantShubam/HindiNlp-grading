@@ -24,7 +24,6 @@ To run the grading script, use the following command:
 
 ``` 
 python finalgrade.py --input_file <path_to_input_file> --output_file <path_to_output_file>
-
 ```
 
 
