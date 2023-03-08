@@ -15,17 +15,17 @@ The following dependencies are required to run the code in this repository:
 # 🚀 Installation
 To install the dependencies, run the following command:
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 # 🎯 Usage
 To run the grading script, use the following command:
 
-''' 
+``` 
 python finalgrade.py --input_file <path_to_input_file> --output_file <path_to_output_file>
 
-'''
+```
 
 
 * <path_to_input_file> is the path to the input file containing the text samples to grade.
@@ -59,5 +59,5 @@ All these processes generate a score, which is then aggregated to arrive at the 
 [Vishal Bimal Francis](https://github.com/vishalbimal) - Developer
 
 
-#📝 License
+# 📝 License
 This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt). See the LICENSE file for details.
